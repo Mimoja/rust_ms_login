@@ -1,0 +1,12 @@
+[package]
+name = "login-service"
+version = "0.1.0"
+authors = ["Mimoja <git@mimoja.de>"]
+
+[dependencies]
+serde = "*"
+serde_json = "*"
+serde_derive = "*"
+
+rand = "*"
+rust-crypto ="*"
